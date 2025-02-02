@@ -1,20 +1,18 @@
 {
-  "name": "markdown-scroll-sync",
+  "name": "pulsar-markdown-scroll-sync",
   "main": "./lib/main",
   "version": "2.1.2",
-  "description": "Auto-scroll markdown-preview tab to match markdown source",
-  "repository": "https://github.com/mark-hahn/markdown-scroll-sync",
+  "description": "Auto-scroll markdown-preview tab to match markdown source (forked from original)",
+  "repository": "https://github.com/savetheclocktower/markdown-scroll-sync",
   "license": "MIT",
   "engines": {
-    "atom": ">1.0.0"
+    "atom": ">1.0.0",
+    "node": ">=14"
   },
   "keywords": [
     "markdown",
     "preview",
     "scroll",
     "sync"
-  ],
-  "dependencies": {
-    "sub-atom": "*"
-  }
+  ]
 }
