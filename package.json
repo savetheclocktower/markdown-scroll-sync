@@ -1,7 +1,7 @@
 {
   "name": "pulsar-markdown-scroll-sync",
   "main": "./lib/main",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "description": "Auto-scroll markdown-preview tab to match markdown source (forked from original)",
   "repository": "https://github.com/savetheclocktower/markdown-scroll-sync",
   "license": "MIT",
